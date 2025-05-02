@@ -1,0 +1,7 @@
+geth/
+geth.log
+eth.syncing
+jwtsecret
+secret.txt
+keystore/
+
